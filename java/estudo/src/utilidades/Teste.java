@@ -15,6 +15,8 @@ public class Teste {
 		b = ler.nextInt();
 		if (a > b){
 			System.out.println((a+b));
+			
+			ler.close();
 		}
 				
 	}
