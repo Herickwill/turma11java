@@ -1,4 +1,4 @@
-package lacoCondicional;
+package lacoDeCondicao;
 
 import java.util.Scanner;
 
@@ -7,7 +7,6 @@ public class LacoEx4 {
 		Scanner leia = new Scanner(System.in);
 		
 		int num;
-		double raiz;
 		String resposta;
 		System.out.print("Digite um número: ");
 		num = leia.nextInt();
